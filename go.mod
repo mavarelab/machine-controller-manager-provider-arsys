@@ -1,4 +1,4 @@
-module github.com/gardener/machine-controller-manager-provider-sampleprovider
+module github.com/mavarelab/machine-controller-manager-provider-
 
 go 1.13
 

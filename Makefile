@@ -20,6 +20,7 @@ TARGET_KUBECONFIG  := dev/target-kubeconfig.yaml
 .PHONY: rename-project
 rename-project:
 	@./hack/rename-project ${PROJECT_NAME} ${PROVIDER_NAME}
+	@echo ${PROJECT_NAME} ${PROVIDER_NAME}
 
 #########################################
 # Rules for starting machine-controller locally

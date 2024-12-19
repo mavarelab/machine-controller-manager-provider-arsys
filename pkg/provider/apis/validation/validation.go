@@ -6,7 +6,7 @@
 package validation
 
 import (
-	api "github.com/gardener/machine-controller-manager-provider-sampleprovider/pkg/provider/apis"
+	api "github.com/mavarelab/machine-controller-manager-provider-/pkg/provider/apis"
 	corev1 "k8s.io/api/core/v1"
 )
 

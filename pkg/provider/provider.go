@@ -6,7 +6,7 @@
 package provider
 
 import (
-	"github.com/gardener/machine-controller-manager-provider-sampleprovider/pkg/spi"
+	"github.com/mavarelab/machine-controller-manager-provider-/pkg/spi"
 	"github.com/gardener/machine-controller-manager/pkg/util/provider/driver"
 )
 
